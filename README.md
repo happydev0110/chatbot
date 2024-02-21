@@ -1,4 +1,4 @@
-# Chatbot com IA utilizando Django e Google Bard API
+# AI chatbot using Django and Google Bard API
 
 This is a chatbot project developed with a REST API in Django using the Google Bard library. The chatbot is able to answer questions accurately, also allowing the conversation to continue using the conversation ID. Furthermore, the project has a conversation history stored in memory.
 
